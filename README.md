@@ -1,6 +1,6 @@
 # 🚀 Simple To-Do List
 
-A simple, interactive To-Do List web application built with vanilla HTML, CSS, and JavaScript. This app allows users to manage their daily tasks with features like adding, editing, completing, and deleting todos. Tasks are persisted locally using the browser's localStorage, so they remain available even after refreshing the page.
+A simple, interactive To-Do List web application built with vanilla HTML, CSS, and JavaScript. This app allows users to manage their daily tasks with features like adding, completing, and deleting todos. Tasks are persisted locally using the browser's localStorage, so they remain available even after refreshing the page.
 
 ## 🎯 Purpose
 
@@ -14,13 +14,18 @@ This project was made to practice core web development skills:
 
 - ✅ **Add New Todos**: Enter a task in the input field and click "Add" or press Enter to add it to the list.
 - ✅ **Mark as Completed**: Check the checkbox next to a todo to mark it as completed (with a line-through effect).
-- ✏️ **Edit Todos**: Double-click on the text of a todo to edit it in a prompt dialog.
 - 🗑️ **Delete Todos**: Click the "Delete" button next to a todo to remove it from the list.
 - 💾 **Persistent Storage**: Todos are automatically saved to localStorage and reloaded when the page is refreshed.
 - 📱 **Responsive Design**: The app is styled with a modern gradient background and is responsive for mobile devices.
 - ✨ **Smooth Animations**: Includes fade-in animations for new todos and hover effects.
 
+## 🌐 Live Demo
+
+Feel free to view the live demo [here](https://moni-tech.github.io/To-Do-List/) or open `index.html` locally in your browser.
+
 ## 📖 How to Use
+
+To get started, please follow these steps:
 
 1. 🌐 Open `index.html` in your web browser.
 2. ✍️ Type a new task in the input field.
@@ -45,7 +50,11 @@ No installation required! This is a static web application.
 
 ## 🎨 Customization
 
+If you'd like to customize the app:
+
 - 🎨 Modify `styles.css` to change the appearance (e.g., colors, fonts).
 - ⚡ Extend `script.js` to add more features like due dates or categories.
-- 🔗 The app uses the "Poppins" font from Google Fonts; ensure internet connection for font loading.
+- 🔗 The app uses the "Poppins" font from Google Fonts; please ensure internet connection for font loading.
+
+Enjoy using the Simple To-Do List! If you have any questions or feedback, feel free to reach out.
 
